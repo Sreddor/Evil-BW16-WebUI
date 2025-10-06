@@ -34,10 +34,6 @@ on:
     branches:
       - main
 
-  # Scheduled backup trigger every hour for followers/subscribers
-  schedule:
-    - cron: '0 */1 * * *' # Every hour at minute 0
-
   # Allows manual triggering
   workflow_dispatch:
 
