@@ -50,7 +50,7 @@
 // User Configuration
 //==========================
 #define WIFI_SSID       "7h30th3r0n35Ghz"
-#define WIFI_PASS       "5Ghz7h30th3r0n3Pass"
+#define WIFI_PASS       "password1234"
 #define WIFI_CHANNEL    1
 
 bool USE_LED = true;
